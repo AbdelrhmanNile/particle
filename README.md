@@ -6,7 +6,7 @@ This is a simple and minimalist template for Jekyll designed for developers that
 
 The Theme features:
 
-- Gulp
+- Gul
 - SASS
 - Sweet Scroll
 - Particle.js
